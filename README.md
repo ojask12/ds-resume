@@ -1,9 +1,9 @@
 # Profile:       
 
-•	Completed certification courses of Data Science & Machine Learning. 
-•	Good knowledge in Scikit-learn, Tensorflow, Docker, Keras, Python and SQL.
-•	Excellent communication skills, interpersonal skills, self-motivated and quick learner. 
-•	Currently working in Burns & McDonnell India.
+•	Completed certification courses of Data Science & Machine Learning. <br>
+•	Good knowledge in Scikit-learn, Tensorflow, Docker, Keras, Python and SQL. <br>
+•	Excellent communication skills, interpersonal skills, self-motivated and quick learner. <br>
+•	Currently working in Burns & McDonnell India. <br>
 
 # Education: 
 Sardar Patel College of Engineering Mumbai, India
