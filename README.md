@@ -6,6 +6,8 @@
 •	Currently working in Burns & McDonnell India. <br>
 
 # Education: 
+
+| :---------------- | :------ |
 Sardar Patel College of Engineering Mumbai, India <br>
 | B.Tech – Mechanical (CGPA 9.65/10)    | July 2018 - June 2022         |
 
