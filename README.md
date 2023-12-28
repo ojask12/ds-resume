@@ -9,15 +9,14 @@
 
 
 Sardar Patel College of Engineering Mumbai, India <br>
-| B.Tech – Mechanical (CGPA 9.65/10)    | July 2018 - June 2022         |
-| :---------------- | :------ |
+B.Tech – Mechanical (CGPA 9.65/10) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; July 2018 - June 2022
 
   
 MIT Junior College Pune, India <br>
-| 12th HSC Board (Distinction)    | July 2016 - Feb 2018         |
+12th HSC Board (Distinction) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; July 2016 - Feb 2018
 
-Sinhgad Spring Dale Public School Pune, India
-| 10th CBSE (CGPA 10/10)   | June 2016       |
+Sinhgad Spring Dale Public School Pune, India <br>
+10th CBSE (CGPA 10/10) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; June 2016
 
 
 
