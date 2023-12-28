@@ -7,9 +7,10 @@
 
 # Education: 
 
-| :---------------- | :------ |
+
 Sardar Patel College of Engineering Mumbai, India <br>
 | B.Tech – Mechanical (CGPA 9.65/10)    | July 2018 - June 2022         |
+| :---------------- | :------ |
 
   
 MIT Junior College Pune, India <br>
