@@ -1,7 +1,7 @@
 <img style="float:right;border-radius:40%;width:100px;padding:6px" src="passport_size_pic_purple_bg.png" />
 
 # Data Scientist 
-<font size="1"><a href="ojask354@gmail.com">Mail</a>  | <a href="https://www.linkedin.com/in/ojask-ai/">LinkedIn</a> | +91 8446902489 </font>
+<font size="1"><a href="mailto:ojask354@gmail.com">Mail</a>  | <a href="https://www.linkedin.com/in/ojask-ai/">LinkedIn</a> | +91 8446902489 </font>
 
 ## Executive Summary   
 * Completed certification courses of Data Science & Machine Learning. <br>
@@ -59,18 +59,18 @@ _12th HSC Board (Distinction) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&e
 _10th CBSE (CGPA 10/10) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; June 2016_
 
 ## Skills:
-* _Languages:_ Python, SQL <br>
-* _Frameworks:_ Scikit-learn, Tensorflow, Keras <br>
-* _Tools:_ Git, SQLite, Kubernetes, Ansible, Docker <br>
-* _Platforms:_ Arduino, ROS, GCP <br>
-* _Soft Skills:_ Leadership, Teamwork, Problem-solving, Work ownership <br>
+* _Languages:_ &emsp;&nbsp; Python, SQL <br>
+* _Frameworks:_ &emsp;Scikit-learn, Tensorflow, Keras <br>
+* _Tools:_ &emsp;&emsp;&emsp;&emsp;Git, SQLite, Kubernetes, Ansible, Docker <br>
+* _Platforms:_ &emsp;&emsp;Arduino, ROS, GCP <br>
+* _Soft Skills:_ &emsp;&emsp;Leadership, Teamwork, Problem-solving, Work ownership <br>
 
 ## Certification:
-* AI-5: ML Ops <br>
-* AI-3: Language Models <br>
-* DS-1: Data Science Basics <br>
-* AI-2: Convolutional Neural Networks <br>
-* AI-1: Basics of AI & ML <br>
+* AI-5: &emsp; ML Ops <br>
+* AI-3: &emsp; Language Models <br>
+* DS-1: &emsp; Data Science Basics <br>
+* AI-2: &emsp; Convolutional Neural Networks <br>
+* AI-1: &emsp; Basics of AI & ML <br>
 
 ## Misc. Information
 * Languages: English (fluent), Hindi (fluent), Marathi (native)
