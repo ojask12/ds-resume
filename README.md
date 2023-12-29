@@ -1,13 +1,13 @@
-<img style="float:right;border-radius:50%;width:70px;padding:6px" src="passport_size_pic_purple_bg.png" />
-
-<font size="1"><a href="ojask354@gmail.com">Mail</a>  | <a href="https://www.linkedin.com/in/ojask-ai/">LinkedIn</a> | +91 8446902489 </font>
+<img style="float:right;border-radius:40%;width:100px;padding:6px" src="passport_size_pic_purple_bg.png" />
 
 # Data Scientist 
+<font size="1"><a href="ojask354@gmail.com">Mail</a>  | <a href="https://www.linkedin.com/in/ojask-ai/">LinkedIn</a> | +91 8446902489 </font>
+
 ## Executive Summary   
-•	Completed certification courses of Data Science & Machine Learning. <br>
-•	Good knowledge in Scikit-learn, Tensorflow, Docker, Keras, Python and SQL. <br>
-•	Excellent communication skills, interpersonal skills, self-motivated and quick learner. <br>
-•	Currently working in Burns & McDonnell India. <br>
+* Completed certification courses of Data Science & Machine Learning. <br>
+* Good knowledge in Scikit-learn, Tensorflow, Docker, Keras, Python and SQL. <br>
+* Excellent communication skills, interpersonal skills, self-motivated and quick learner. <br>
+* Currently working in Burns & McDonnell India. <br>
 
 ## Working Experience
 #### Burns & McDonnell India (Mechanical Engineer, 2022/06 - present) 
@@ -16,7 +16,7 @@
 
 ## Projects: 
 * [Santander Customer Satisfaction](https://github.com/ojask12/Predict-Customer-Satisfaction) <br>
-_Santander Bank has provided information collected throughout the customer journey and the associated end of journey outcome of customer satisfaction. <br>
+_Santander Bank has provided information collected throughout the customer journey and the associated end of journey outcome of customer satisfaction.
 The bank has anonymized the features provided. The task is to identify high impact predictors which will be of great use for the bank. <br>
 •	Analysed a highly imbalanced dataset (majority customer satisfied) with 370 anonymized predictors and implemented <br>
 Gradient Boosting, Random Forest, Decision Trees to predict customer satisfaction with bank’s services accurately. <br>
@@ -26,6 +26,27 @@ Santander Bank Ltd can use these and focus more on strong areas & improve weaker
 Sklearn, Gradient Boosting, Random Forest, Bagging, Decision Tree, Logistic Regression, kNN classifier_
 
 * [Fault Detection using Hadoop](https://github.com/ojask12/Fault-Detection-using-Hadoop)
+_The roasting machine of concern is an aggregate consisting of 5 chambers of equal size, each chamber has 3 temperature sensors. Raw materials pass through the
+kiln in an hour. The goal is to build a model that, on the basis of data arriving every minute, determines the quality of products produced on a roasting machine
+and comparing it with the actual quality obtained to detect fault in the roasting machine. <br>
+•	Created a data pipeline to HDFS using MapReduce to store the cleaned processed data and used PySpark to access it. <br>
+•	Built an ANN with Tensorflow to detect fault in a roasting machine by predicting required quality and comparing with obtained quality. The model predicted fault with 96% accuracy. <br>
+Hadoop architecture, HDFS, MapReduce, PySpark, Big Data fundamentals_
+
+* [Happy Whale: Whale and Dolphin Classification](https://github.com/ojask12/Whale-and-Dolphin-Classification)
+_HappyWhale engages citizen scientists to identify individual marine mammals, for fun and for science by using Photo ID technique. A dataset of whales & dolphins
+is provided, and the task is to classify them into 15,000 unique individual marine mammals from 30 different species. <br>
+•	Implemented transfer learning using SOTA models, VGG16 and EffiecientNetB7, to classify whales and dolphins into 30 species and 15587 unique individual ids on a dataset of 50k images (62.8 gb of data). <br>
+•	Integrated ArcFace to capture fin patterns to detect individual ids more accurately. Accuracy improved by around 60% as compared to previous model. <br>
+Tensorflow, ANN, CNN, CNN visualization, Autoencoder, Transfer learning_
+
+* [ensAIgnant](https://github.com/pratik-276/ensAIgnant) | [Debate God](https://github.com/ojask12/Debate-God)
+_The application will be used by students between 6th and 12th grade to improve argumentative writing. The effectiveness of the arguments is to be predicted. This feedback will be given to students to improvise the arguments. <br>
+•	Developed a language model that can process the arguments put forth by students and judge the effectiveness of the argument. <br>
+•	Implemented BERT, Deberta V3 models to classify the arguments as Ineffective, Adequate and Effective. <br>
+•	Deployed the containerized Debate God app on GCP. <br>
+•	Containerized the application using Docker and deployed on Kubernetes cluster through Ansible. <br>
+GCP, Kubernetes, ML Ops, Ansible, Docker, Word2Vec, RNN, LSTM, Seq2Seq modelling, BERT, HuggingFace api_
 
 ## Education:
 Sardar Patel College of Engineering Mumbai, India <br>
