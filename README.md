@@ -49,28 +49,28 @@ _The application will be used by students between 6th and 12th grade to improve 
 **GCP, Kubernetes, ML Ops, Ansible, Docker, Word2Vec, RNN, LSTM, Seq2Seq modelling, BERT, HuggingFace api**_
 
 ## Education:
-Sardar Patel College of Engineering Mumbai, India <br>
-B.Tech – Mechanical (CGPA 9.65/10) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; July 2018 - June 2022
+#### Sardar Patel College of Engineering Mumbai, India <br>
+_B.Tech – Mechanical (CGPA 9.65/10) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; July 2018 - June 2022_
 
-MIT Junior College Pune, India <br>
-12th HSC Board (Distinction) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; July 2016 - Feb 2018
+#### MIT Junior College Pune, India <br>
+_12th HSC Board (Distinction) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; July 2016 - Feb 2018_
 
-Sinhgad Spring Dale Public School Pune, India <br>
-10th CBSE (CGPA 10/10) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; June 2016
+#### Sinhgad Spring Dale Public School Pune, India <br>
+_10th CBSE (CGPA 10/10) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; June 2016_
 
 ## Skills:
-• Languages: Python, SQL <br>
-• Frameworks: Scikit-learn, Tensorflow, Keras <br>
-• Tools: Git, SQLite, Kubernetes, Ansible, Docker <br>
-• Platforms: Arduino, ROS, GCP <br>
-• Soft Skills: Leadership, Teamwork, Problem-solving, Work ownership <br>
+* _Languages:_ Python, SQL <br>
+* _Frameworks:_ Scikit-learn, Tensorflow, Keras <br>
+* _Tools:_ Git, SQLite, Kubernetes, Ansible, Docker <br>
+* _Platforms:_ Arduino, ROS, GCP <br>
+* _Soft Skills:_ Leadership, Teamwork, Problem-solving, Work ownership <br>
 
 ## Certification:
-•	AI-5: ML Ops <br>
-•	AI-3: Language Models <br>
-•	DS-1: Data Science Basics <br>
-•	AI-2: Convolutional Neural Networks <br>
-•	AI-1: Basics of AI & ML <br>
+* AI-5: ML Ops <br>
+* AI-3: Language Models <br>
+* DS-1: Data Science Basics <br>
+* AI-2: Convolutional Neural Networks <br>
+* AI-1: Basics of AI & ML <br>
 
 ## Misc. Information
 * Languages: English (fluent), Hindi (fluent), Marathi (native)
