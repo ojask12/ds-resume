@@ -1,6 +1,6 @@
 <img style="float:right;border-radius:50%;width:70px;padding:6px" src="passport_size_pic_purple_bg.png" />
 
-<font size="1">[Mail](ojask354@gmail.com)  | [LinkedIn](https://www.linkedin.com/in/ojask-ai/) | +91 8446902489 </font>
+<font size="1"><a href="ojask354@gmail.com">Mail</a>  | <a href="https://www.linkedin.com/in/ojask-ai/">LinkedIn</a> | +91 8446902489 </font>
 
 # Data Scientist 
 ## Executive Summary   
