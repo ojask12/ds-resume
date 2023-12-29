@@ -23,30 +23,30 @@ Gradient Boosting, Random Forest, Decision Trees to predict customer satisfactio
 •	Applying permutation importance on the best model identified the features that are most important for prediction. <br>
 Santander Bank Ltd can use these and focus more on strong areas & improve weaker areas.<br>
 •	Best results were obtained with gradient boosted tree model which gave an AUC score of 0.9692. <br>
-Sklearn, Gradient Boosting, Random Forest, Bagging, Decision Tree, Logistic Regression, kNN classifier_
+**Sklearn, Gradient Boosting, Random Forest, Bagging, Decision Tree, Logistic Regression, kNN classifier**_
 
-* [Fault Detection using Hadoop](https://github.com/ojask12/Fault-Detection-using-Hadoop)
+* [Fault Detection using Hadoop](https://github.com/ojask12/Fault-Detection-using-Hadoop) <br>
 _The roasting machine of concern is an aggregate consisting of 5 chambers of equal size, each chamber has 3 temperature sensors. Raw materials pass through the
 kiln in an hour. The goal is to build a model that, on the basis of data arriving every minute, determines the quality of products produced on a roasting machine
 and comparing it with the actual quality obtained to detect fault in the roasting machine. <br>
 •	Created a data pipeline to HDFS using MapReduce to store the cleaned processed data and used PySpark to access it. <br>
 •	Built an ANN with Tensorflow to detect fault in a roasting machine by predicting required quality and comparing with obtained quality. The model predicted fault with 96% accuracy. <br>
-Hadoop architecture, HDFS, MapReduce, PySpark, Big Data fundamentals_
+**Hadoop architecture, HDFS, MapReduce, PySpark, Big Data fundamentals**_
 
-* [Happy Whale: Whale and Dolphin Classification](https://github.com/ojask12/Whale-and-Dolphin-Classification)
+* [Happy Whale: Whale and Dolphin Classification](https://github.com/ojask12/Whale-and-Dolphin-Classification) <br>
 _HappyWhale engages citizen scientists to identify individual marine mammals, for fun and for science by using Photo ID technique. A dataset of whales & dolphins
 is provided, and the task is to classify them into 15,000 unique individual marine mammals from 30 different species. <br>
 •	Implemented transfer learning using SOTA models, VGG16 and EffiecientNetB7, to classify whales and dolphins into 30 species and 15587 unique individual ids on a dataset of 50k images (62.8 gb of data). <br>
 •	Integrated ArcFace to capture fin patterns to detect individual ids more accurately. Accuracy improved by around 60% as compared to previous model. <br>
-Tensorflow, ANN, CNN, CNN visualization, Autoencoder, Transfer learning_
+**Tensorflow, ANN, CNN, CNN visualization, Autoencoder, Transfer learning**_
 
-* [ensAIgnant](https://github.com/pratik-276/ensAIgnant) | [Debate God](https://github.com/ojask12/Debate-God)
+* [ensAIgnant](https://github.com/pratik-276/ensAIgnant) | [Debate God](https://github.com/ojask12/Debate-God) <br>
 _The application will be used by students between 6th and 12th grade to improve argumentative writing. The effectiveness of the arguments is to be predicted. This feedback will be given to students to improvise the arguments. <br>
 •	Developed a language model that can process the arguments put forth by students and judge the effectiveness of the argument. <br>
 •	Implemented BERT, Deberta V3 models to classify the arguments as Ineffective, Adequate and Effective. <br>
 •	Deployed the containerized Debate God app on GCP. <br>
 •	Containerized the application using Docker and deployed on Kubernetes cluster through Ansible. <br>
-GCP, Kubernetes, ML Ops, Ansible, Docker, Word2Vec, RNN, LSTM, Seq2Seq modelling, BERT, HuggingFace api_
+**GCP, Kubernetes, ML Ops, Ansible, Docker, Word2Vec, RNN, LSTM, Seq2Seq modelling, BERT, HuggingFace api**_
 
 ## Education:
 Sardar Patel College of Engineering Mumbai, India <br>
