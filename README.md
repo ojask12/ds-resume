@@ -49,13 +49,13 @@ _The application will be used by students between 6th and 12th grade to improve 
 **GCP, Kubernetes, ML Ops, Ansible, Docker, Word2Vec, RNN, LSTM, Seq2Seq modelling, BERT, HuggingFace api**_
 
 ## Education:
-#### Sardar Patel College of Engineering Mumbai, India <br>
+**Sardar Patel College of Engineering Mumbai, India <br>**
 _B.Tech – Mechanical (CGPA 9.65/10) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; July 2018 - June 2022_
 
-#### MIT Junior College Pune, India <br>
+**MIT Junior College Pune, India <br>**
 _12th HSC Board (Distinction) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; July 2016 - Feb 2018_
 
-#### Sinhgad Spring Dale Public School Pune, India <br>
+**Sinhgad Spring Dale Public School Pune, India <br>**
 _10th CBSE (CGPA 10/10) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; June 2016_
 
 ## Skills:
