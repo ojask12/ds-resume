@@ -11,8 +11,6 @@
 
 ## Working Experience
 #### Burns & McDonnell India (Mechanical Engineer, 2022/06 - present) 
-* Lead team of 10 to oversee conception, requirement gathering, documentation and rollout.
-* Conduct troubleshooting, analysis and support. Gather user feedback, document bugs and change requests.
 
 ## Projects: 
 * [Santander Customer Satisfaction](https://github.com/ojask12/Predict-Customer-Satisfaction) <br>
